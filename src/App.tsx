@@ -11,8 +11,8 @@ import {
   PackageCheck
 } from 'lucide-react';
 
-import heroDropperImg from './assets/images/lycora_dropper_bottle.png';
-import lifestyleWoodImg from './assets/images/lycora_products_stone.png';
+import heroDropperImg from './assets/images/lycora_products_stone.png';
+import lifestyleWoodImg from './assets/images/lycora_dropper_bottle.png';
 import jarStoneImg from './assets/images/lycora_jar_stone_1782750422335.jpg';
 import allProductsImg from './assets/images/lycora_all_products.png';
 
