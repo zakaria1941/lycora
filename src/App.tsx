@@ -13,7 +13,6 @@ import {
 
 import heroDropperImg from './assets/images/lycora_products_stone.png';
 import lifestyleWoodImg from './assets/images/lycora_dropper_bottle.png';
-import jarStoneImg from './assets/images/lycora_jar_stone_1782750422335.jpg';
 import allProductsImg from './assets/images/lycora_all_products.png';
 
 // Shared Step Component — numbered row
@@ -292,20 +291,6 @@ export default function App() {
               <p className="text-sm text-[#EDE6D6] leading-relaxed text-left">
                 Conserver dans un endroit frais et sec, à l'abri de la lumière et de l'humidité. Refermer hermétiquement après ouverture.
               </p>
-            </div>
-          </div>
-
-          {/* NEW Visual Card - Image 3 (jar on stone) */}
-          <div className="px-[42px] pb-10">
-            <div
-              onClick={() => handleOpenModal('Forme en Poudre 10 g (Pot)')}
-              className="block overflow-hidden rounded-[14px] group cursor-pointer"
-            >
-              <img
-                src={jarStoneImg}
-                alt="LYCORA Forme en Poudre Jar on Stone"
-                className="w-full h-[370px] object-cover rounded-[14px] transition-transform duration-700 group-hover:scale-[1.03]"
-              />
             </div>
           </div>
 
